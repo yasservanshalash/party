@@ -29,7 +29,7 @@ export default function Home() {
           BERLIN FEVER
         </h1>
         <h1 className="text-[#aeaeae] text-[10px] uppercase leading-[18px] text-center font-bold">
-          qu'ils donneront en l'honneur de leurs filles
+          qu&lsquo;ils donneront en l&lsquo;honneur de leurs filles
         </h1>
         <h1 className="text-[#aeaeae] text-[10px] uppercase leading-[18px] text-center font-bold">
           Honorine, Emilie et Madeleine
