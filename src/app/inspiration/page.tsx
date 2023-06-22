@@ -55,14 +55,14 @@ const page = () => {
           height={170}
           width={200}
           alt="image"
-          style={{ objectFit: "fill", height: "254px", width: "100%" }}
+          style={{ objectFit: "fill", height: "100%", width: "100%" }}
         />
         <Image
           src={Image3}
           height={170}
           width={100}
           alt="image"
-          style={{ objectFit: "fill", height: "254px", width: "190px" }}
+          style={{ objectFit: "fill", height: "100%", width: "190px" }}
         />
         <Image
           src={Image4}
@@ -76,7 +76,7 @@ const page = () => {
           height={170}
           width={100}
           alt="image"
-          style={{ objectFit: "fill", height: "240px", width: "100%" }}
+          style={{ objectFit: "fill", height: "100%", width: "100%" }}
         />
         <Image
           src={Image6}
@@ -97,7 +97,7 @@ const page = () => {
           height={170}
           width={100}
           alt="image"
-          style={{ objectFit: "fill", height: "240px", width: "100%" }}
+          style={{ objectFit: "fill", height: "100%", width: "100%" }}
         />
         <Image
           src={Image9}
@@ -146,14 +146,14 @@ const page = () => {
           height={170}
           width={100}
           alt="image"
-          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+          style={{ objectFit: "fill", height: "100%", width: "100%" }}
         />
         <Image
           src={Image16}
           height={170}
           width={100}
           alt="image"
-          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+          style={{ objectFit: "fill", height: "100%", width: "100%" }}
         />
         <Image
           src={Image17}
