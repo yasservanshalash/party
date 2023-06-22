@@ -62,7 +62,7 @@ const page = () => {
               height: "31px",
               fontSize: "8px",
               padding: "10px 10px",
-              height: "104px",
+            //   height: "104px",
               fontWeight: "bold",
               color: "#fff",
               borderRadius: "5px",

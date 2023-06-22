@@ -48,7 +48,7 @@ export default function Home() {
           TÉLÉPHONE DE LA JOURNÉE :
         </h1>
         <h1 className="text-[#fff] text-[10px] uppercase leading-[18px] text-center font-bold">
-          0487793607{" "}
+          0487793607
         </h1>
       </section>
     </main>
