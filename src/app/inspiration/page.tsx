@@ -42,27 +42,153 @@ const page = () => {
           - Be You, be creative, be Alternative, be-rlin
         </h1>
       </section>
-      <section className="grid grid-cols-3 gap-1.5">
+      <section className="grid grid-cols-3 gap-1.5 items-center">
         <Image
           src={Image1}
           height={170}
           width={200}
           alt="image"
-          style={{ objectFit: "fill", height: "200px", width: "100" }}
+          style={{ objectFit: "contain", height: "100%", width: "100%" }}
         />
         <Image
           src={Image2}
           height={170}
           width={200}
           alt="image"
-          style={{ objectFit: "fill", height: "200px", width: "100" }}
+          style={{ objectFit: "fill", height: "254px", width: "100%" }}
         />
         <Image
           src={Image3}
           height={170}
           width={100}
           alt="image"
-          style={{ objectFit: "fill", height: "200px", width: "100%" }}
+          style={{ objectFit: "fill", height: "254px", width: "190px" }}
+        />
+        <Image
+          src={Image4}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image5}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "fill", height: "240px", width: "100%" }}
+        />
+        <Image
+          src={Image6}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image7}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image8}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "fill", height: "240px", width: "100%" }}
+        />
+        <Image
+          src={Image9}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image10}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image11}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image12}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image13}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "fill", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image14}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image15}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image16}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image17}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "fill", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image18}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image19}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "contain", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image20}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "fill", height: "100%", width: "100%" }}
+        />
+        <Image
+          src={Image21}
+          height={170}
+          width={100}
+          alt="image"
+          style={{ objectFit: "fill", height: "100%", width: "100%" }}
         />
       </section>
     </header>
