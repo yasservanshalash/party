@@ -59,10 +59,10 @@ const page = () => {
             placeholder="YOUR MESSAGE HERE..."
             style={{
               backgroundColor: "#373737",
-              height: "31px",
+            //   height: "31px",
               fontSize: "8px",
               padding: "10px 10px",
-            //   height: "104px",
+              height: "104px",
               fontWeight: "bold",
               color: "#fff",
               borderRadius: "5px",
